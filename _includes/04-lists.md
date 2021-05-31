@@ -5,3 +5,6 @@ Replace this with a list of your favorite things.
   <li>gaming</li>
   <li>writing</li>
   </ol>
+  * India
+  * Kerala
+  * Alappuzha 
